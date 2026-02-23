@@ -1,4 +1,16 @@
-## Hi there 👋
+### Hey 👋 What's up?
+
+My name is Mohd Shayan and I'm a fullstack engineer using AI/ML and Web3.
+
+I'm a CS Grad from DTU and looking for new opportunities.
+
+### I code with
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,css,ts,java,react,html,nextjs,nodejs,angular,django,docker,cs,cpp,figma,firebase,flutter" />
+  </a>
+</p>
 
 <!--
 **shayanmohd/shayanmohd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
