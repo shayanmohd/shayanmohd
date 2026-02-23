@@ -2,7 +2,7 @@
 
 My name is Mohd Shayan and I'm a fullstack engineer specializing in AI/ML and Web3.
 
-I'm a CS grad from DTU and looking for new opportunities.
+I'm a Math & CS grad from DTU and looking for new opportunities.
 
 ### I code with
 
