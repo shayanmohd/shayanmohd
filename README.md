@@ -4,7 +4,6 @@ My name is Mohd Shayan and I'm a fullstack engineer specializing in AI/ML and We
 
 I'm a Math & CS grad from DTU and looking for new opportunities.
 
-Discord -> shayanmohd
 
 ### I code with
 
